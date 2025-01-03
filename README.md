@@ -8,7 +8,7 @@ Evaluation scores may be found in the folder `data/`.
 
 ## Reproducing Figures
 
-Use `scaling/<COLAB NAME TODO>` to reprooduce the figures in the paper. Figures are also in the `scaling/` folder.
+Use `scaling/<COLAB NAME TODO>` to reproduce the figures in the paper. Figures are also in the `scaling/` folder.
 
 ## Checkpoints
 
