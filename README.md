@@ -4,7 +4,7 @@ This repository contains the data and code to reproduce the figures and tables i
 
 ## Evaluation Scores
 
-Evaluation scores may be found in the folder `data/`.
+Evaluation scores may be found in the folder `data.zip`.
 
 ## Reproducing Figures
 
