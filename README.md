@@ -2,21 +2,7 @@
 
 This repository contains the data and code to reproduce the figures and tables in the paper ["(Mis)Fitting Scaling Laws: A Survey of Scaling Laws"](https://arxiv.org/abs/2502.18969), by Margaret Li, Sneha Kudugunta and Luke Zettlemoyer.
 
-## Evaluation Scores
-
-Evaluation scores may be found in the folder `data.zip`.
-
-## Reproducing Figures
-
-Use `scaling/<COLAB NAME TODO>` to reproduce the figures in the paper. Figures are also in the `scaling/` folder.
-
-## Checkpoints
-
-We share the checkpoints on [Hugging Face](https://huggingface.co/misfitting). 
-
-## Sheet
-
-The sheet used to inform our survey is `sheet.csv`<TODO>.
+UNDER CONSTRUCTION as I wrote documentation for my self-documenting code and update data to final version. 
 
 ## Citation
 
